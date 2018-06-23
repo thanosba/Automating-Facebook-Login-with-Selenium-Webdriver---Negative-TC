@@ -1,4 +1,4 @@
-# Automating-Facebook-Login-with-Selenium-Webdriver---Negative-TC
+# Automating-Facebook-Login-with-Selenium-Webdriver--TestNG--Negative-TC
 
 Negative testing 
 
